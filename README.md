@@ -77,16 +77,16 @@ This list describes a roadmap of our effort
 * [x] Complete parsing of schema.
 * [x] Complete parsing of any valid request.
 * [x] Interpretation of simple request based on selection sets.
-* [ ] Add tests for interpretation of request with fragments.
-* [ ] Interpretation of request with fragments.
-* [ ] Add tests for interpretation of any valid request.
-* [ ] Interpretation of any valid request.
-* [ ] Add tests for error handling.
-* [ ] Error handling.
-* [ ] Add tests for type checking rules.
-* [ ] Type checking of the rules.
-* [ ] Add tests for introspection.
-* [ ] Introspection.
+* [x] Add tests for interpretation of request with fragments.
+* [x] Interpretation of request with fragments.
+* [x] Add tests for interpretation of any valid request.
+* [x] Interpretation of any valid request.
+* [x] Add tests for error handling.
+* [x] Error handling.
+* [x] Add tests for type checking rules.
+* [x] Type checking of the rules.
+* [x] Add tests for introspection.
+* [x] Introspection.
 ___
 
 # Quick Demo
